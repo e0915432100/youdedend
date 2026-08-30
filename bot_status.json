@@ -1,1 +1,1 @@
-{}
+{"GRAMUSDT":{"status":"TRADING","qty":7.3,"cost":9.9937,"sell_id":"C02__722845033656430592092","buy_ids":"C02__722845046331621377092,C02__722845062941085696092,C02__722845080993345537092,","dec":4,"qty_dec":4,"maker":0,"taker":0.05,"prof":0.1,"dca_placed":3,"dca_total":10,"next_drop":"0.4","next_amount":"10","base_price":1.369,"step_drop":0.1,"mult":1}}
