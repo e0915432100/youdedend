@@ -1,1 +1,1 @@
-{"GRAMUSDT":{"status":"BOUGHT","qty":52.98,"cost":74.9984,"base_price":1.419,"next_drop":0.1,"next_amount":15,"dca_placed":0,"found_filled_dca":0,"dust_qty":0,"dust_cost":0}}
+{"GRAMUSDT":{"status":"INTENT_SELL","qty":52.98,"cost":74.9984,"base_price":1.419,"next_drop":0.1,"next_amount":15,"dca_placed":0,"cid":"GRAMUSDT1788560693356a","dust_qty":0,"dust_cost":0}}
