@@ -1,1 +1,1 @@
-{"GRAMUSDT":{"status":"PLACING_DCA","qty":5.26,"cost":7.49024,"base_price":1.424,"sell_id":"C02__724840617737142273092","buy_ids":"GRAMUSDT1788597711204a,GRAMUSDT1788597725366a,","next_drop":0.3,"next_amount":60,"dca_placed":2,"dust_qty":0,"dust_cost":0}}
+{"GRAMUSDT":{"status":"INTENT_DCA_3","qty":5.26,"cost":7.49024,"base_price":1.424,"sell_id":"C02__724840617737142273092","buy_ids":"GRAMUSDT1788597711204a,GRAMUSDT1788597725366a,","next_drop":0.3,"next_amount":60,"dca_placed":2,"cid":"GRAMUSDT1788597739122a","dust_qty":0,"dust_cost":0}}
